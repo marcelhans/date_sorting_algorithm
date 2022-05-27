@@ -41,6 +41,10 @@ Read through our [contributing guidelines](./CONTRIBUTING.md) to learn about our
 
 Want to report a bug, contribute some code, or improve documentation? Excellent! Read up on our guidelines for [contributing](./CONTRIBUTING.md) and then check out one of our issues ...
 
+### Code of Conduct
+
+Help us keep this package open and inclusive. Please read and follow our [Code of Conduct](./CODE_OF_CONDUCT.md).
+
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
