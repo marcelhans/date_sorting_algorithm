@@ -41,6 +41,9 @@ Read through our [contributing guidelines](./CONTRIBUTING.md) to learn about our
 
 Want to report a bug, contribute some code, or improve documentation? Excellent! Read up on our guidelines for [contributing](./CONTRIBUTING.md) and then check out one of our issues ...
 
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
 ## Additional information
 
 Additional Information about future sorting algorithms will be released here.
