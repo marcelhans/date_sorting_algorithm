@@ -27,10 +27,6 @@ void main() {
 }
 ```
 
-## Additional information
-
-Additional Information about future sorting algorithms will be released here.
-
 ## Changelog
 
 [Learn about the latest improvements](./CHANGELOG.md).
@@ -44,3 +40,7 @@ Read through our [contributing guidelines](./CONTRIBUTING.md) to learn about our
 ### Want to Help?
 
 Want to report a bug, contribute some code, or improve documentation? Excellent! Read up on our guidelines for [contributing](./CONTRIBUTING.md) and then check out one of our issues ...
+
+## Additional information
+
+Additional Information about future sorting algorithms will be released here.
