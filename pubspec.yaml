@@ -1,7 +1,7 @@
 name: date_sorting_algorithm
-description: A new Flutter package project.
+description: A Flutter package to sort a list of dates in a specific format.
 version: 0.0.1
-homepage:
+homepage: https://github.com/marcelhans/date_sorting_algorithm
 
 environment:
   sdk: '>=2.18.0-10.0.dev <3.0.0'
@@ -10,11 +10,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  intl: ^0.17.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
+  test: ^1.21.1
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
