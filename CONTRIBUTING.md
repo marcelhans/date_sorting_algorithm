@@ -27,13 +27,23 @@ The following is a set of guidelines for contributing to Date-Sorting-Algorithm,
 
 ## Code of Conduct
 
+This project and everyone participating in it is governed by our [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+
 ## Where can you get help?
 
+If you have any questions about our package, you can simply go to [Stackoverflow](https://stackoverflow.com/) and ask your question there. We use Stackoverflow for usage questions and other supports.
+
 ## How to set up your environment and run tests?
+
+To set up your environment and run tests, simply follow the instructions in the Getting started section of our [README](README.md) file.
 
 ## How Can I Contribute?
 
 ### Reporting Bugs
+
+This section guides you through submitting a bug report for Date-Sorting-Algorithm. Following these guidelines helps us understand your report, reproduce the behavior, and find related reports.
+
+Before creating bug reports, please check [this list](https://github.com/marcelhans/date_sorting_algorithm/issues) if a similar issue already exists, then you don't need to create a new bug report. When you are creating a bug report, please include as many details as possible. Fill out the [required template](.github/issue_template.md), the information it asks for helps us resolve issues faster.
 
 ### Suggesting New Features
 

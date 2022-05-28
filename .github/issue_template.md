@@ -3,7 +3,7 @@ Hey there and thank you for using Issue Tracker and help us to improve our proje
 Do the checklist before filing an issue:
 
 - [ ] Is this something you can **debug and fix**? Send a pull request! Bug fixes and documentation fixes are welcome.
-- [ ] Have a usage question? Ask your question on [StackOverflow](http://stackoverflow.com). We use StackOverflow for usage question and GitHub for bugs.
+- [ ] Have a usage question? Ask your question on [StackOverflow](https://stackoverflow.com/). We use StackOverflow for usage question and GitHub for bugs.
 - [ ] Have an idea for a feature? Post the feature request on our Projects section on GitHub and mark the importance of the feature. GitHub issues should only be used for bugs. 
   
 None of the above, create a bug report

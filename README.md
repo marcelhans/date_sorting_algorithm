@@ -10,7 +10,7 @@ Currently this package provides two functions. You can sort your list of dates w
 
 Just add this package to your pubspec.yaml, read the usage and you are good to go
 
-## Usage
+### Usage
 
 Sort every list with dates in ascending order,
 simply create an instance of SortList and add the sortByDate() Function to it.
@@ -25,6 +25,18 @@ void main() {
     SortList sortList = SortList().sortByDate(dateList, inputDateFormat);
     print(sortList.toString());
 }
+```
+
+### Tests
+
+You can either run your tests via a git hook. The git hook is automatically executed with every try to commit to your branch. Otherwise, you can run your tests manually using the following commands:
+
+```
+$ flutter test
+```
+or
+```
+$ flutter test [path]
 ```
 
 ## Changelog
