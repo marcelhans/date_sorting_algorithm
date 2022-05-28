@@ -80,7 +80,7 @@ While the prerequisites above must be satisfied prior to having your pull reques
 
 ### Dart Styleguide
 
-All Dart-Files are linted with [flutter_lints](https://pub.dev/packages/flutter_lints)
+All Dart-Files are linted with [flutter_lints](https://pub.dev/packages/flutter_lints).
 
 * name types using UpperCamelCase
 * name extensions using UpperCamelCase
@@ -96,3 +96,6 @@ All Dart-Files are linted with [flutter_lints](https://pub.dev/packages/flutter_
 * use curly braces for all flow control statements
 
 ### Documentation Styleguide
+
+* Use [Markdown](https://daringfireball.net/projects/markdown).
+* Reference methods and classes in markdown with the custom `{}` notation:
