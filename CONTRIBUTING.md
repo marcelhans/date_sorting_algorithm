@@ -71,6 +71,28 @@ While the prerequisites above must be satisfied prior to having your pull reques
 
 ### Git Commit Messages
 
+* Separate subject from body with a blank line
+* Use the present tense ("Add feature" not "Added feature")
+* Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
+* Limit the first line to 72 characters or less
+* Reference issues and pull requests liberally after the first line
+* Use the body to explain what you have done
+
 ### Dart Styleguide
+
+All Dart-Files are linted with [flutter_lints](https://pub.dev/packages/flutter_lints)
+
+* name types using UpperCamelCase
+* name extensions using UpperCamelCase
+* name libraries, packages, directories, and source files using lowercase_with_underscores
+* name import prefixes using lowercase_with_underscores
+* name other identifiers using lowerCamelCase
+* using _, __, etc. for unused callback parameters
+* don't use a leading underscore for identifiers that aren’t private
+* place “dart:” imports before other imports
+* place “package:” imports before relative imports
+* specify exports in a separate section after all imports
+* sort sections alphabetically
+* use curly braces for all flow control statements
 
 ### Documentation Styleguide
