@@ -23,8 +23,6 @@ The following is a set of guidelines for contributing to Date-Sorting-Algorithm,
   * [Dart Styleguide](#dart-styleguide)
   * [Documentation Styleguide](#documentation-styleguide)
 
-[Additional Notes](#additional-notes)
-
 ## Code of Conduct
 
 This project and everyone participating in it is governed by our [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
@@ -60,5 +58,3 @@ Bugs are tracked as [GitHub issues](https://github.com/marcelhans/date_sorting_a
 ### Dart Styleguide
 
 ### Documentation Styleguide
-
-## Additional Notes
