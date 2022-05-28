@@ -13,15 +13,15 @@ The following is a set of guidelines for contributing to Date-Sorting-Algorithm,
 [How to set up your environment and run tests?](#how-to-set-up-your-environment-and-run-tests)
 
 [How Can I Contribute?](#how-can-i-contribute)
-    * [Reporting Bugs](#reporting-bugs)
-    * [Suggesting New Features](#suggesting-new-features)
-    * [Your First Code Contribution](#your-first-code-contribution)
-    * [Pull Requests](#pull-requests)
+  * [Reporting Bugs](#reporting-bugs)
+  * [Suggesting New Features](#suggesting-new-features)
+  * [Your First Code Contribution](#your-first-code-contribution)
+  * [Pull Requests](#pull-requests)
 
 [Styleguides](#styleguides)
-    * [Git Commit Messages](#git-commit-messages)
-    * [Dart Styleguide](#dart-styleguide)
-    * [Documentation Styleguide](#documentation-styleguide)
+  * [Git Commit Messages](#git-commit-messages)
+  * [Dart Styleguide](#dart-styleguide)
+  * [Documentation Styleguide](#documentation-styleguide)
 
 [Additional Notes](#additional-notes)
 
