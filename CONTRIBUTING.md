@@ -43,7 +43,8 @@ To set up your environment and run tests, simply follow the instructions in the 
 
 This section guides you through submitting a bug report for Date-Sorting-Algorithm. Following these guidelines helps us understand your report, reproduce the behavior, and find related reports.
 
-Before creating bug reports, please check [this list](https://github.com/marcelhans/date_sorting_algorithm/issues) if a similar issue already exists, then you don't need to create a new bug report. When you are creating a bug report, please include as many details as possible. Fill out the [required template](.github/issue_template.md), the information it asks for helps us resolve issues faster.
+Before creating bug reports, please check [this list](https://github.com/marcelhans/date_sorting_algorithm/issues) if a similar issue already exists, then you don't need to create a new bug report. When you are creating a bug report, please include as many details as possible. It helps us to resolve issues faster.
+Bugs are tracked as [GitHub issues](https://github.com/marcelhans/date_sorting_algorithm/issues). So you can create an issue on our repository and provide the the required information by filling in the [template](.github/issue_template.md).
 
 ### Suggesting New Features
 
