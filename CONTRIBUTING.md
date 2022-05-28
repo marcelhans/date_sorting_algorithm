@@ -47,6 +47,13 @@ Bugs are tracked as [GitHub issues](https://github.com/marcelhans/date_sorting_a
 
 ### Suggesting New Features
 
+This section guides you through submitting a suggestion for Date-Sorting-Algorithm, including completely new features and minor improvements to existing functionality. Following these guidelines helps us understand your suggestion and find related suggestions.
+
+Before creating a new feature suggestion, please check [this list](https://github.com/marcelhans/date_sorting_algorithm/issues) if a similar feature already exists, then you don't need to create a new feature suggestion. When you are creating a new feature suggestion, please include as many details as possible.
+
+New feature suggestions are tracked as [GitHub issues](https://github.com/marcelhans/date_sorting_algorithm/issues). So you can create an issue on our repository and provide the required information by filling in the [template](.github/).
+
+
 ### Your First Code Contribution
 
 ### Pull Requests

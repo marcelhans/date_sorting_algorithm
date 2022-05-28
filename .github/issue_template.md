@@ -4,7 +4,7 @@ Do the checklist before filing an issue:
 
 - [ ] Is this something you can **debug and fix**? Send a pull request! Bug fixes and documentation fixes are welcome.
 - [ ] Have a usage question? Ask your question on [StackOverflow](https://stackoverflow.com/). We use StackOverflow for usage question and GitHub for bugs.
-- [ ] Have an idea for a feature? Post the feature request on our Projects section on GitHub and mark the importance of the feature. GitHub issues should only be used for bugs. 
+- [ ] Have an idea for a feature? Post the feature request on our repository as [GitHub issues](https://github.com/marcelhans/date_sorting_algorithm/issues) and mark the importance of the feature. 
   
 None of the above, create a bug report
 ------------------------------------------------------------------
