@@ -39,7 +39,7 @@ Read through our [contributing guidelines](./CONTRIBUTING.md) to learn about our
 
 ### Want to Help?
 
-Want to report a bug, contribute some code, or improve documentation? Excellent! Read up on our guidelines for [contributing](./CONTRIBUTING.md) and then check out one of our issues ...
+Want to report a bug, contribute some code, or improve documentation? Excellent! Read up on our guidelines for [contributing](./CONTRIBUTING.md) and then check out one of our issues or send us a new bug.
 
 ### Code of Conduct
 
