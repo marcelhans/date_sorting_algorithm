@@ -54,6 +54,19 @@ New feature suggestions are tracked as [GitHub issues](https://github.com/marcel
 
 ### Pull Requests
 
+The process described here has several goals:
+
+- Maintain our quality
+- Fix problems that are important to users
+- Enable a sustainable system for our maintainers to review contributions
+
+Please follow these steps to have your contribution considered by the maintainers:
+
+1. Follow all instructions in [the template](.github/pull_request_template.md)
+2. Follow the [styleguides](#styleguides)
+
+While the prerequisites above must be satisfied prior to having your pull request reviewed, the reviewer(s) may ask you to complete additional design work, tests, or other changes before your pull request can be ultimately accepted.
+
 ## Styleguides
 
 ### Git Commit Messages
